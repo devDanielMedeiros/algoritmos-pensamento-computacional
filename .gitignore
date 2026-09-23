@@ -1,0 +1,14 @@
+# Binarios compilados
+*.exe
+*.out
+*.o
+a.out
+
+# Arquivos de IDE
+.vscode/
+*.suo
+*.user
+
+# Sistema
+.DS_Store
+Thumbs.db
